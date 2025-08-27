@@ -43,7 +43,12 @@
       "upperFL": 270
     },
     "ANGIE ANCHOR": {
-      "airspaces": ["ANGIE ANCHOR", ""EDR205A", "EDR205B", "EDR205C", "EDR205D"],
+      "airspaces": ["ANGIE ANCHOR", "EDR205A", "EDR205B", "EDR205C", "EDR205D"],
+      "lowerFL": 100,
+      "upperFL": 245
+    },
+    "LUCA ANCHOR": {
+      "airspaces": ["LUCA ANCHOR", "EDR205B", "EDR205C"],
       "lowerFL": 100,
       "upperFL": 245
     },
